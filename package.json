@@ -5,7 +5,8 @@
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp",
-    "build": "cross-env NODE_ENV=prod gulp build"
+    "build": "cross-env NODE_ENV=prod gulp build",
+    "publish": "gh-pages -d dist"
   },
   "author": "https://www.wickedtemplates.com",
   "devDependencies": {
@@ -46,6 +47,7 @@
     "@tailwindcss/forms": "^0.5.0",
     "@tailwindcss/line-clamp": "^0.3.1",
     "@tailwindcss/typography": "^0.5.2",
+    "gh-pages": "^6.3.0",
     "tailwindcss": "^3.0.24"
   }
 }
