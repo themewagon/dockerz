@@ -31,11 +31,11 @@ bun dev
 
 ## Author 
 ```
-Design and code is completely written by codescandy and development team. 
+Design and code is completely written by Wicked Templates and development team. 
 ```
 
 ## License
 
- - Design and Code is Copyright &copy; <a href="url" target="_blank">codescandy</a>
+ - Design and Code is Copyright &copy; <a href="https://wicked-templates.gumroad.com/" target="_blank">Wicked Templates</a>
  - Licensed cover under [MIT]
  - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
